@@ -3,7 +3,7 @@
 About Me
 ----------------
 
-I began my journey as a student in information engineering at the University of Damascus four years ago, and I am currently in my graduation year. The main reason for starting this journey was my strong admiration and amazement at mathematics, the fields, and the sciences that I am capable of achieving and accomplishing.
+I began my journey as a student in Computer Science at the University of Damascus four years ago, and I am currently in my graduation year. The main reason for starting this journey was my strong admiration and amazement at mathematics, the fields, and the sciences that this science is capable of achieving and accomplishing.
 My feelings of admiration and love for this science increased after starting my studies in the field of artificial intelligence in my fourth year and the current graduation year that I am spending at my university.
 
 My Approach to Learning
