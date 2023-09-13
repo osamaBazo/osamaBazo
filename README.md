@@ -1,27 +1,27 @@
 <h1 align="center">Osama Bazo</h1>
 
-###About Me
+About Me
 ----------------
 
 I began my journey as a student in information engineering at the University of Damascus four years ago, and I am currently in my graduation year. The main reason for starting this journey was my strong admiration and amazement at mathematics, the fields, and the sciences that I am capable of achieving and accomplishing.
 My feelings of admiration and love for this science increased after starting my studies in the field of artificial intelligence in my fourth year and the current graduation year that I am spending at my university.
 
-###My Approach to Learning
+My Approach to Learning
 ----------------
 
 Personally, I prefer learning and having a deep understanding of how to apply any field or idea in the specialty I study over the practical field of implementing the idea. With regard to the practical or executive aspect of projects, I have the ability to learn it and apply the ideas and things that I have understood with great ease and effectiveness.
 
-###Technical Expertise
+Technical Expertise
 ----------------
 
 Due to my specialization in the last two years at my university in the field of artificial intelligence, I have good knowledge of the Python language, and I also have a great preference for JavaScript over other languages, as I have previously implemented many projects using NodeJS.
 
-###Sharing My Work
+Sharing My Work
 ----------------
 
 All the projects I implemented I uploaded to my gitlab account and I share here what I like to share with people who have common interests with me.
 
-###Social Media links:
+Social Media links:
 ----------------
 
 [![email][b-email]][l-email] [![Facebook][b-facebook]][l-facebook] [![LinkedIn][b-linkedin]][l-linkedin] [![Telegram][b-telegram]][l-telegram]
